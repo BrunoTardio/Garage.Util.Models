@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace Garage.Util.Models.Interface
 {
-    internal class Mappers
+    public interface IMappers
     {
+
     }
+
+    public interface IUsuario : IMappers
+    { 
+
+        
+
+    }
+
 }
+
